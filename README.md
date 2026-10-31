@@ -1,2 +1,2 @@
-# moje-og-lne-projekty
+# moje-oglne-projekty
 moje ogólne projekty
